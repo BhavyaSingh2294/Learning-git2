@@ -4,3 +4,5 @@ let b = a.toUpperCase()
 console.log(b)
 let c = a.toLowerCase()
 console.log(c)
+let d = "HI bro"
+console.log(d)
